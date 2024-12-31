@@ -1,0 +1,17 @@
+
+
+{
+    "service" : "Authority to Travel",
+    "username": "01626585727",
+    "password": "Bangladesh1",
+    "purpose" : "Travel for Study",
+    "applicant" : "Mr. Rana",
+    "office" : "Orange Business Development LTD.",
+    "designation" : "SQA Engineer",
+    "destination" : "USA",
+    "reason" : "Study",
+    "officerid" : "manzarulrana@orangebd.com",
+    "officerpassword" : "superadmin",
+    "approvedate" : "01012023",
+    "note" : "This is test note"
+}

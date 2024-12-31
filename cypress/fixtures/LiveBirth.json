@@ -1,0 +1,39 @@
+
+
+{
+    "service"  : "Certificate of Live Birth (COLB)",
+    "username" : "01626585727",
+    "password" : "Bangladesh1",
+    "piagapo"  : "LGU Piagapo",
+
+    "ChildFirstName": "Manzarul",
+    "ChildMidledName" : "Islam",
+    "ChildLastName" : "Rana",
+    "ChildSex": "Male",
+    "Hospital" : "DMC",
+    "Province" : "Lanao Del Sur",
+    "Municipality" : "Piagapo",
+    "Barangay" : "Aposong",
+    "BirthType" : "Twin",
+    "TotalChild" : "2",
+    "BirthOrder" : "1",
+    "Weight" : "3",
+
+
+    "MotherFirstName" : "Rabeya",
+    "MotherMidleName" : "Sultana",
+    "MotherLastName" : "Zim", 
+    "MotherCitizen" : "Bangladeshi",
+
+    "FatherFirstName" : "MD",
+    "FatherMidleName" : "Badal",
+    "FatherLastName" : "Bepary",
+    "FatherCitizen" : "Bangladeshi",
+
+    "officerid1" : "hanifa@test.com",
+    "officerid2" : "noraida@test.com",
+    "officerid3" : "mcrnayomanalocon@gmail.com",
+    "officerpassword" : "superadmin",
+    "regno" : "123",
+    "note" : "This is test note"
+}

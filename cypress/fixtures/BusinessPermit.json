@@ -1,0 +1,32 @@
+
+
+{
+    "service" : "Business Permit Registration and Renewal",
+    "username": "01626585727",
+    "password": "Bangladesh1",
+    "paymentmode" : "Quarterly",
+    "ownership" : "Sole Proprietorship",
+    "TIN" : "12323545",
+    "midlename" : "Hasan",
+    "LastName" : "TestLastName",
+    "FirstName" : "TestFirstName",
+    "businessaddress" : "Uttara",
+    "OwnerAddress": "Mirpur",
+    "NewBusinessAddress" : "Banani",
+    "OldBusinessAddress": "Gazipur",
+    "BusinessName" : "Zorrow",
+    "BusinessID" : "325435346",
+    "NewBusinessName" : "Zorrow 2",
+    "NewBusinessID" : "325435346222",
+    "OldBusinessName" : "Zorrow 1",
+    "OldBusinessID" : "325435346111",
+    "officerid1" : "mamanoaima@gmail.com",
+    "officerid2" : "sultan@test.com",
+    "officerid3" : "pansar@test.com",
+    "officerpassword" : "superadmin",
+    "paymentamount" : "10",
+    "issuedate" : "01012023",
+    "validdate" : "31122023",
+    "or" : "123",
+    "note" : "This is test note"
+}
